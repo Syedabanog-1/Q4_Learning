@@ -1,0 +1,52 @@
+What's generative AI?
+
+When new content is created by artificial intelligence, it is referred to as generative AI. This can involve generating text, images, videos, music, or voices. To do this, you describe in a chat dialogue box what you want the AI to create; this description is called a "prompt."
+
+Generative AI tools provide answers to all sorts of questions, summarize complex information, and generate diverse ideas quickly. Depending on how they are used, they can create short stories, paintings, pieces of code, or even musical compositions.
+
+The foundation for this creation lies in the large amounts of data that the AI system accesses to identify patterns and similarities. The content produced by the AI is new and is often impressive, making it challenging to distinguish from content created by humans.
+
+Generative AI can also be misused in the creation of "deep fakes," where AI is utilized to produce images or videos that appear real. AI-generated texts can also be difficult to recognize as machine-made. Moreover, the AI can provide answers that sound correct but are actually incorrect; this phenomenon is known as "hallucination."
+
+The quality of what is created depends on both the quality of the data used and the quality of the prompts given. To effectively utilize generative AI, we need to learn how to guide the tools with meaningful prompts and use them thoughtfully.
+
+Generative AI holds immense potential and can assist us in many ways, such as serving as a writing or learning partner. However, while AI can handle the hard work, humans should remain responsible for ensuring the accuracy of the facts.
+
+ 
+ ***Difference Between AI And Generative AI***
+
+1. Definition:
+
+AI (Artificial Intelligence):
+
+ AI is a broad field that aims to enable machines to exhibit human-like intelligence. It includes tasks such as decision-making, problem-solving, learning, and perception. AI encompasses supervised learning, unsupervised learning, reinforcement learning, and rule-based systems.
+
+GenAI (Generative AI):
+
+ GenAI is a subset of AI that focuses on generating new content. These algorithms learn patterns from existing data and use those patterns to create new text, images, audio, or video.
+
+2. Functionality:
+
+AI: 
+AI systems analyze data, understand patterns, and make decisions based on those patterns. These systems perform tasks such as classification, regression, and clustering.
+
+GenAI: 
+GenAI systems create new content, such as writing text (like ChatGPT), generating images (like DALL-E), or composing music. These systems focus on creativity and originality.
+
+3. Applications:
+
+AI: 
+AI is used in healthcare, finance, customer service, autonomous vehicles, and many other fields. These systems are employed for data analysis, predictive modeling, and automation.
+
+GenAI: 
+GenAI is used in content creation, marketing, game development, and art generation. These systems are utilized to automate creative tasks and generate new ideas.
+
+4. Output:
+
+AI: 
+AI systems often provide structured outputs, such as predictions or classifications.
+
+GenAI: 
+GenAI systems generate unstructured and creative outputs, such as stories, poems, or visual art.
+
+In summary, AI is a broader concept that focuses on making machines intelligent, while GenAI is a specific branch that concentrates on creating new content.
